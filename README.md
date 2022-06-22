@@ -8,3 +8,8 @@ This repository contains the exercises proposed by open bootcamp.
 - [Tema 4](https://github.com/roblesdotdev/ob_ex/tree/main/intro_to_programming/java/tema_4)
 - [Tema 8](https://github.com/roblesdotdev/ob_ex/tree/main/intro_to_programming/java/tema_8)
 - [Tema 9](https://github.com/roblesdotdev/ob_ex/tree/main/intro_to_programming/java/tema_9)
+
+
+## HTML & CSS
+
+- [01-intro](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/01-introduction)
