@@ -15,3 +15,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [01-intro](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/01-introduction)
 - [02-forms-tables](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/02-forms-tables)
 - [03-multimedia](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/03-multimedia)
+- [04-intro-css](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/04-intro-css)
