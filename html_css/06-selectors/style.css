@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background: #fafafa;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 12px 24px;
+  font-weight: 500;
+  font-size: 1rem;
+  border: none;
+  background: #000;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.5s;
+  min-width: 168px;
+}
+
+button::after {
+  content: "Pasa por encima";
+}
+
+button:hover {
+  background: green;
+  color: white;
+}
+
+button:hover::after {
+  content: "Hecho";
+}
