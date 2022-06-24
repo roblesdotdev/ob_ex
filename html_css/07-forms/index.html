@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Register Form - Clone</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">dribbble</h1>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <h2 class="title">Sign up to Dribbble</h2>
+        <div class="social-auth">
+          <button class="google-btn">
+            <div class="picture"></div>
+            <span>Acceder con Google</span>
+          </button>
+          <button class="twitter-btn">T</button>
+        </div>
+        <div class="divider">Or</div>
+        <div class="auth-form">
+          <form action="">
+            <div class="form-field-group">
+              <div class="form-field">
+                <fieldset>
+                  <label for="name">Name</label>
+                  <input type="text" name="name" id="name" required />
+                </fieldset>
+              </div>
+              <div class="form-field">
+                <fieldset>
+                  <label for="username">Username</label>
+                  <input type="text" name="username" id="username" required />
+                </fieldset>
+              </div>
+            </div>
+            <div class="form-field">
+              <fieldset>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" required />
+              </fieldset>
+            </div>
+            <div class="form-field">
+              <fieldset>
+                <label for="password">Password</label>
+                <input
+                  type="password"
+                  name="password"
+                  id="password"
+                  placeholder="+6 characters"
+                  required
+                />
+              </fieldset>
+            </div>
+            <div class="form-field chbox">
+              <fieldset>
+                <input type="checkbox" name="terms" id="terms" />
+                <label for="terms">
+                  You're okay with our terms of service.
+                </label>
+              </fieldset>
+            </div>
+            <div class="form-btns">
+              <button type="submit">Create Account</button>
+            </div>
+            <p class="auth-link">Ya eres miembro? <a href="#">Ingresar</a></p>
+          </form>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
