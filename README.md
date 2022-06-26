@@ -24,3 +24,4 @@ This repository contains the exercises proposed by open bootcamp.
 ## Javascript
 
 - [01-intro](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/01-intro)
+- [02-syntax](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/02-syntax)
