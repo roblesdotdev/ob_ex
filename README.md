@@ -25,3 +25,4 @@ This repository contains the exercises proposed by open bootcamp.
 
 - [01-intro](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/01-intro)
 - [02-syntax](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/02-syntax)
+- [03-control-struc](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/03-control-structures)
