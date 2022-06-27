@@ -29,3 +29,6 @@ This repository contains the exercises proposed by open bootcamp.
 - [04-strings](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/04-strings)
 - [05-numbers](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/05-numbers)
 - [06-lists](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/06-lists)
+- [07-sets-objects](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/07-sets-objects)
+- [08-functions](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/08-functions)
+- [09-errors](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/09-errors)
