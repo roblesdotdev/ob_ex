@@ -32,3 +32,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [07-sets-objects](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/07-sets-objects)
 - [08-functions](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/08-functions)
 - [09-errors](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/09-errors)
+- [10-modules](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/10-modules)
