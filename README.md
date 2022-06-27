@@ -28,3 +28,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [03-control-struc](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/03-control-structures)
 - [04-strings](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/04-strings)
 - [05-numbers](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/05-numbers)
+- [06-lists](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/06-lists)
