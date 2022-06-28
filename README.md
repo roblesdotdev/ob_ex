@@ -35,3 +35,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [10-modules](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/10-modules)
 - [11-poo](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/11-poo)
 - [12-debug](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/12-debug)
+- [13-lint](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/13-eslint)
