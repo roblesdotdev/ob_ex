@@ -1,0 +1,59 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #f4f4f4;
+  min-height: 100vh;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 0;
+}
+
+section {
+  background: #171717;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+section p {
+  padding: 16px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  background: #262626;
+  color: white;
+  cursor: move;
+}
+
+.gosth-img {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(100, 100, 100, 0.2);
+  position: absolute;
+  left: -100vw;
+}
+
+.eraser {
+  text-align: center;
+  border: solid 1px red;
+}
+
+.eraser img {
+  width: 100px;
+}
