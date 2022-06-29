@@ -38,3 +38,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [13-lint](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/13-eslint)
 - [14-events](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/14-events)
 - [15-storage](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/15-storage)
+- [16-dragndrop](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/16-dragndrop)
