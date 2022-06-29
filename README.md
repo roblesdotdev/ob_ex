@@ -19,6 +19,7 @@ This repository contains the exercises proposed by open bootcamp.
 - [05-position](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/05-position)
 - [06-selectors](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/06-selectors)
 - [07-forms](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/07-forms)
+- [08-bootstrap](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/08-bootstrap)
 
 
 ## Javascript
