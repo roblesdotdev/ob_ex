@@ -23,6 +23,7 @@ This repository contains the exercises proposed by open bootcamp.
 - [09-anim-trans](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/09-anim-transition)
 - [10-responsive](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/10-responsive)
 - [11-grid-system](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/11-grid-system)
+- [12-more-bootstrap](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/12-more-bootstrap)
 
 
 ## Javascript
