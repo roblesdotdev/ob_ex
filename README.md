@@ -21,6 +21,7 @@ This repository contains the exercises proposed by open bootcamp.
 - [07-forms](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/07-forms)
 - [08-bootstrap](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/08-bootstrap)
 - [09-anim-trans](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/09-anim-transition)
+- [10-responsive](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/10-responsive)
 
 
 ## Javascript
@@ -41,3 +42,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [14-events](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/14-events)
 - [15-storage](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/15-storage)
 - [16-dragndrop](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/16-dragndrop)
+- [17-maps](https://github.com/roblesdotdev/ob_ex/tree/main/javascript/17-maps)
