@@ -1,0 +1,38 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f4f4f4;
+}
+
+.btn-modern {
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  background: black;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-modern:hover {
+  transition: all 0.4s;
+  transform: translateY(-5px);
+  background: white;
+  border: 1px solid #ccc;
+  color: black;
+  box-shadow: 0 0 8px #555;
+}
