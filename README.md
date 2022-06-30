@@ -20,6 +20,7 @@ This repository contains the exercises proposed by open bootcamp.
 - [06-selectors](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/06-selectors)
 - [07-forms](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/07-forms)
 - [08-bootstrap](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/08-bootstrap)
+- [09-anim-trans](https://github.com/roblesdotdev/ob_ex/tree/main/html_css/09-anim-transition)
 
 
 ## Javascript
