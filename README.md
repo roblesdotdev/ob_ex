@@ -52,3 +52,4 @@ This repository contains the exercises proposed by open bootcamp.
 - [session-3](https://github.com/roblesdotdev/ob_ex/tree/main/reactjs/session-3)
 - [session-4-5-6](https://github.com/roblesdotdev/ob_ex/tree/main/reactjs/session-4-5-6)
 - [session-7-8-9](https://github.com/roblesdotdev/ob_ex/tree/main/reactjs/session-7-8-9)
+- [session-10-11-12](https://github.com/roblesdotdev/ob_ex/tree/main/reactjs/session-10-11-12)
